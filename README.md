@@ -5,10 +5,11 @@
 <img align="right" alt="GIF" src="./assets/github.gif" width="250" height="200" />
 
 <p>
-    Sou uma Desenvolvedora Web Full Stack, mas prefiro <br> atuar com o Front End. <br>
+    Sou uma Desenvolvedora Web Full Stack, mas prefiro atuar com o Front End :v <br>
     De vez em sempre me perco madrugada a dentro 😅 ... <br> 
-    <strong>Hoje é o Front que me faz feliz!</strong> <br> 
-    Criar, estilizar, melhorar, ver acontecer, fazer acontecer <br> são motivos pela qual quero seguir aprendendo e desbravando esse universo cheio de possibilidades. 
+    <strong>Hoje é o Front que me faz feliz! 🧡 </strong> <br>
+    Criar, estilizar, melhorar, ver acontecer, fazer acontecer são motivos pela qual <br> 
+    quero seguir aprendendo e desbravando esse universo cheio de possibilidades 🚀
 </p>
 
 <br/>
