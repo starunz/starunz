@@ -62,10 +62,10 @@
 <div width="100%" align="center">
 
   <a href="https://github.com/starunz?tab=repositories" target="_blank">
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/?username=starunz&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=fff&bg_color=0,696969,363636,1C1C1C,1C1C1C" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/?username=starunz&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=fff&bg_color=0,696969,363636,1C1C1C,1C1C1C" />
   </a>
   <a href="https://github.com/starunz?tab=repositories" target="_blank">
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starunz&langs_count=8&layout=compact&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0,1C1C1C,1C1C1C,000000" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starunz&langs_count=8&layout=compact&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0,1C1C1C,1C1C1C,000000" />
   </a>
 
 </div>
