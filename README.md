@@ -12,7 +12,6 @@
 </p>
 
 <br/>
-<br/>
 
 # 👀 **Um pouco mais:**
 
