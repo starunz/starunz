@@ -56,7 +56,7 @@
 # 📊 **Estatísticas:**
 
 <div width="100%" align="center">
-    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=starunz&theme=black-ice&hide_border=true&stroke=0000&background=696969&ring=fff&fire=fff&currStreakLabel=fff&title_color=000text_color=000" alt="starunz_contribution_streak" />
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=starunz&theme=black-ice&hide_border=true&stroke=0000&background=696969&ring=fff&fire=fff&currStreakLabel=fff&title_color=000text_color=000" alt="starunz_contribution_streak" />
 </div>
 
 <div width="100%" align="center">
